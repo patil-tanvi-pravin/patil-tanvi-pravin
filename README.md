@@ -1,6 +1,6 @@
 ## Hi, I'm Tanvi 👋
 
-🎓 Computer Engineering Student  
+🎓 Computer Science Engineering Student  
 💻 Learning Java & Data Structures  
 🌱 Exploring Open Source and GSoC  
 📫 Email: patiltanvip@gmail.com  
